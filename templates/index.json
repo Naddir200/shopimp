@@ -53,16 +53,10 @@
     "logo_list_WGgqrF": {
       "type": "logo-list",
       "blocks": {
-        "logo_N9DW6x": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 180,
-            "link": ""
-          }
-        },
         "logo_Yez86i": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/VOGUE_revista_-_logo.png",
             "logo_width": 100,
             "link": ""
           }
@@ -70,22 +64,32 @@
         "logo_EijUXT": {
           "type": "logo",
           "settings": {
-            "logo_width": 70,
+            "logo": "shopify://shop_images/marie.png",
+            "logo_width": 140,
+            "link": ""
+          }
+        },
+        "logo_N9DW6x": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Cosmopolitan-Logo.png",
+            "logo_width": 180,
             "link": ""
           }
         },
         "logo_tqMPkD": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/logog_allure.png",
             "logo_width": 120,
             "link": ""
           }
         }
       },
       "block_order": [
-        "logo_N9DW6x",
         "logo_Yez86i",
         "logo_EijUXT",
+        "logo_N9DW6x",
         "logo_tqMPkD"
       ],
       "name": "Logo list",
