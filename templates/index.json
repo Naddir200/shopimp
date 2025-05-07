@@ -422,6 +422,85 @@
         "input_text_color": ""
       }
     },
+    "tpt_video_one_yPNQmp": {
+      "type": "tpt-video-one",
+      "blocks": {
+        "video_RGNt3t": {
+          "type": "video",
+          "settings": {
+            "heading": "LASH STYLE",
+            "sub_heading": "Custom - Glam Wispies"
+          }
+        },
+        "video_iVCqz8": {
+          "type": "video",
+          "settings": {
+            "heading": "LASH STYLE",
+            "sub_heading": "Custom - Glam Wispies"
+          }
+        },
+        "video_VeHL4Y": {
+          "type": "video",
+          "settings": {
+            "heading": "LASH STYLE",
+            "sub_heading": "Custom - Glam Wispies"
+          }
+        },
+        "video_Fj9Qiy": {
+          "type": "video",
+          "settings": {
+            "heading": "LASH STYLE",
+            "sub_heading": "Custom - Glam Wispies"
+          }
+        }
+      },
+      "block_order": [
+        "video_RGNt3t",
+        "video_iVCqz8",
+        "video_VeHL4Y",
+        "video_Fj9Qiy"
+      ],
+      "disabled": true,
+      "name": "Tpt - Video #1",
+      "settings": {
+        "heading": "Infinaluxe In Action",
+        "heading_size": "h4",
+        "sub_heading": "",
+        "description": "<p>Check out the movement</p>",
+        "alignment": "center",
+        "top_button_label": "",
+        "top_button_link": "",
+        "show_play_pause": true,
+        "show_one_video": false,
+        "nav": false,
+        "dots": false,
+        "scroll_bar": true,
+        "auto_play": false,
+        "text-video-color": "#FFFFFF",
+        "video_ratio": 200,
+        "desktop_column": 4,
+        "tablet_column": 4,
+        "mobile_column": 3,
+        "bottom_button_label": "",
+        "bottom_button_link": "",
+        "section_full_width": true,
+        "section_max_width": 1600,
+        "content_full_width": false,
+        "content_max_width": 1440,
+        "padding_desktop": 0,
+        "padding_tablet_mobile": 0,
+        "margin_desktop": 60,
+        "margin_tablet_mobile": 40,
+        "background_color": "#FFFFFF",
+        "background_gradient_color": "",
+        "foreground_color": "#000000",
+        "title_color": "#000000",
+        "button_background_color": "#000000",
+        "button_text_color": "#ffffff",
+        "input_button_radius": 0,
+        "section_lazyload": false
+      }
+    },
     "tabs_CiWwwt": {
       "type": "tabs",
       "blocks": {
@@ -853,6 +932,7 @@
     "custom_liquid_LYKU3B",
     "multi_column_9RXqem",
     "featured-product",
+    "tpt_video_one_yPNQmp",
     "tabs_CiWwwt",
     "comparaison_VABdeQ",
     "faq"
