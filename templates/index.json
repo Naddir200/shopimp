@@ -348,17 +348,16 @@
             "max_width": 500
           }
         },
-        "liquid_yqwQ7g": {
-          "type": "liquid",
-          "disabled": true,
-          "settings": {
-            "liquid": "<div style=\"width: 100%; max-width: 420px; margin: 0 auto; padding: 0 5px;\">\n  <img \n    src=\"https://cdn.shopify.com/s/files/1/0929/1074/7972/files/Concue_pour_durer.png?v=1745955018\" \n    alt=\"Conçue pour durer\" \n    style=\"width: 100%; height: auto; display: block; border-radius: 8px;\" \n    loading=\"lazy\"\n  >\n</div>"
-          }
-        },
         "description": {
           "type": "description",
           "settings": {
             "collapse_content": false
+          }
+        },
+        "kaching_bundles_app_block_3FCmaX": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{section.settings.product}}"
           }
         },
         "liquid_KW46Dc": {
@@ -397,8 +396,8 @@
         "price",
         "separator_3Ppj9g",
         "image_f9fV6m",
-        "liquid_yqwQ7g",
         "description",
+        "kaching_bundles_app_block_3FCmaX",
         "liquid_KW46Dc",
         "buy-buttons",
         "liquid_bUJfE7",
