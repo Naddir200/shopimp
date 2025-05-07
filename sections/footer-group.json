@@ -1,1 +1,138 @@
-{"type":"footer","name":"Footer group","sections":{"text-with-icons":{"type":"text-with-icons","blocks":{"free-shipping":{"type":"item","settings":{"icon":"picto-box","mobile_icon_width":24,"icon_width":24,"icon_background_type":"none","icon_background":"","icon_color":"#fec6c5","title":"Livraison gratuite","content":"<p>Livraison offerte sur toutes vos commandes.<\/p>"}},"customer-support":{"type":"item","settings":{"icon":"picto-customer-support","mobile_icon_width":24,"icon_width":24,"icon_background_type":"none","icon_background":"","icon_color":"#fec6c5","title":"Customer service","content":"<p>Notre équipe est disponible pour vous aider à tout moment.<\/p>"}},"discount":{"type":"item","settings":{"icon":"picto-coupon","mobile_icon_width":24,"icon_width":24,"icon_background_type":"none","icon_background":"","icon_color":"#fec6c5","title":"Parrainez un proche","content":"<p>Profitez d'avantages exclusifs en partageant Onessa<\/p>"}},"payment":{"type":"item","settings":{"icon":"picto-lock","mobile_icon_width":24,"icon_width":24,"icon_background_type":"none","icon_background":"#1a1a1a","icon_color":"#fec6c5","title":"Paiement sécurisé","content":"<p>Vos paiements sont 100 % sécurisés et cryptés.<\/p>"}}},"block_order":["free-shipping","customer-support","discount","payment"],"settings":{"full_width":true,"stack_on_mobile":false,"title":"","heading_tag":"h6","text_alignment":"center","icon_spacing":"small","background":"","background_gradient":"","text_color":""}},"17463628217cd85e19":{"type":"apps","blocks":{"stamped_reviews_main_widget_iVNEDj":{"type":"shopify:\/\/apps\/stamped-reviews\/blocks\/main-widget\/a103faaf-2125-4b0e-89fa-de5149736723","settings":{"animation":true,"tags_exclude":"","tags_include":"","search":"","linkify":true,"use_metafields":false,"sku_tagtype":"sku"}}},"block_order":["stamped_reviews_main_widget_iVNEDj"],"settings":{"full_width":true,"remove_vertical_spacing":false,"remove_horizontal_spacing":false,"background":"","background_gradient":"","text_color":"","enable_review_integration":true,"review_header_gradient":"linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)","review_header_text_color":"#000000","review_button_background":"#000000","review_button_text_color":"#ffffff"}},"footer":{"type":"footer","blocks":{"newsletter":{"type":"newsletter","settings":{"image_width":150,"heading_size":"h3","title":"Inscrivez-vous pour découvrir nos nouveautés et offres exclusives","content":""}},"links":{"type":"links","settings":{"menu":"footer","show_menu_title":true}},"text":{"type":"text","settings":{"title":"À propos","content":"<p>Notre mission : sublimer votre intérieur avec des objets durables, esthétiques et simples à utiliser.<br\/><br\/><br\/><\/p>","enable_follow_on_shop":true}}},"block_order":["newsletter","links","text"],"settings":{"show_social_media":true,"show_payment_icons":true,"show_country_selector":true,"show_country_flag":true,"show_country_name":true,"show_locale_selector":true}}},"order":["text-with-icons","17463628217cd85e19","footer"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "type": "footer",
+  "name": "Footer group",
+  "sections": {
+    "text-with-icons": {
+      "type": "text-with-icons",
+      "blocks": {
+        "free-shipping": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-box",
+            "mobile_icon_width": 40,
+            "icon_width": 24,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "#fec6c5",
+            "title": "Livraison gratuite",
+            "content": "<p>Livraison offerte sur toutes vos commandes.</p>"
+          }
+        },
+        "customer-support": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-customer-support",
+            "mobile_icon_width": 24,
+            "icon_width": 24,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "#fec6c5",
+            "title": "Customer service",
+            "content": "<p>Notre équipe est disponible pour vous aider à tout moment.</p>"
+          }
+        },
+        "payment": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-lock",
+            "mobile_icon_width": 40,
+            "icon_width": 24,
+            "icon_background_type": "none",
+            "icon_background": "#1a1a1a",
+            "icon_color": "#fec6c5",
+            "title": "Paiement sécurisé",
+            "content": "<p>Vos paiements sont 100 % sécurisés et cryptés.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "free-shipping",
+        "customer-support",
+        "payment"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "",
+        "heading_tag": "h6",
+        "text_alignment": "center",
+        "icon_spacing": "small",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "17463628217cd85e19": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "newsletter": {
+          "type": "newsletter",
+          "settings": {
+            "image_width": 150,
+            "heading_size": "h3",
+            "title": "Inscrivez-vous pour découvrir nos nouveautés et offres exclusives",
+            "content": ""
+          }
+        },
+        "links": {
+          "type": "links",
+          "settings": {
+            "menu": "footer",
+            "show_menu_title": true
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "title": "À propos",
+            "content": "<p>Notre mission : sublimer votre intérieur avec des objets durables, esthétiques et simples à utiliser.<br/><br/><br/></p>",
+            "enable_follow_on_shop": true
+          }
+        }
+      },
+      "block_order": [
+        "newsletter",
+        "links",
+        "text"
+      ],
+      "settings": {
+        "show_social_media": true,
+        "show_payment_icons": true,
+        "show_country_selector": true,
+        "show_country_flag": true,
+        "show_country_name": true,
+        "show_locale_selector": true
+      }
+    }
+  },
+  "order": [
+    "text-with-icons",
+    "17463628217cd85e19",
+    "footer"
+  ]
+}
