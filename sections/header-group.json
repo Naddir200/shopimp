@@ -1,1 +1,109 @@
-{"type":"header","name":"Header group","sections":{"announcement-bar":{"type":"announcement-bar","blocks":{"message":{"type":"message","settings":{"text":"OFFRE SPÉCIALE PRINTEMPS: JUSQU'À -50%","url":""}},"message_YnrHdx":{"type":"message","settings":{"text":"LIVRAISON GRATUITE À DOMICILE","url":""}},"message_TRqgcY":{"type":"message","settings":{"text":"30 JOURS SATISFAIT OU REMBOURSÉ","url":""}},"message_gWwALR":{"type":"message","settings":{"text":"GARANTIE 2 ANS","url":""}}},"block_order":["message","message_YnrHdx","message_TRqgcY","message_gWwALR"],"settings":{"enable_sticky":false,"text_size":"text-xs","navigation_mode":"arrows","scrolling_speed":23,"background":"#fec6c2","background_gradient":"","text_color":"#ffffff"}},"header":{"type":"header","settings":{"enable_sticky":false,"hide_on_scroll":false,"logo":"shopify:\/\/shop_images\/logo_noir_blanc_fonc.png","logo_max_width":195,"logo_mobile_max_width":125,"menu":"main-menu","sidebar_menu":"","secondary_menu":"","menu_open_trigger":"click","opening_from":"bottom","layout":"logo_left_navigation_center","show_social_media":false,"show_locale_selector":false,"show_country_selector":false,"show_country_flag":false,"show_country_name":false,"transparent_header_text_color":"#ffffff","reduce_padding":false,"background_opacity":0,"background_blur_radius":0}},"1745940964d36b676f":{"type":"apps","settings":{"full_width":true,"remove_vertical_spacing":false,"remove_horizontal_spacing":false,"background":"","background_gradient":"","text_color":"","enable_review_integration":true,"review_header_gradient":"linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)","review_header_text_color":"#000000","review_button_background":"#000000","review_button_text_color":"#ffffff"}}},"order":["announcement-bar","header","1745940964d36b676f"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "type": "header",
+  "name": "Header group",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "message": {
+          "type": "message",
+          "settings": {
+            "text": "OFFRE SPÉCIALE PRINTEMPS: JUSQU'À -50%",
+            "url": ""
+          }
+        },
+        "message_YnrHdx": {
+          "type": "message",
+          "settings": {
+            "text": "LIVRAISON GRATUITE À DOMICILE",
+            "url": ""
+          }
+        },
+        "message_TRqgcY": {
+          "type": "message",
+          "settings": {
+            "text": "30 JOURS SATISFAIT OU REMBOURSÉ",
+            "url": ""
+          }
+        },
+        "message_gWwALR": {
+          "type": "message",
+          "settings": {
+            "text": "GARANTIE 2 ANS",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "message",
+        "message_YnrHdx",
+        "message_TRqgcY",
+        "message_gWwALR"
+      ],
+      "settings": {
+        "enable_sticky": false,
+        "text_size": "text-xs",
+        "navigation_mode": "arrows",
+        "scrolling_speed": 23,
+        "background": "#fec6c2",
+        "background_gradient": "",
+        "text_color": "#ffffff"
+      }
+    },
+    "header": {
+      "type": "header",
+      "settings": {
+        "enable_sticky": false,
+        "hide_on_scroll": false,
+        "logo": "shopify://shop_images/logo.png",
+        "logo_max_width": 195,
+        "logo_mobile_max_width": 105,
+        "menu": "main-menu",
+        "sidebar_menu": "",
+        "secondary_menu": "",
+        "menu_open_trigger": "click",
+        "opening_from": "bottom",
+        "layout": "logo_left_navigation_center",
+        "show_social_media": false,
+        "show_locale_selector": false,
+        "show_country_selector": false,
+        "show_country_flag": false,
+        "show_country_name": false,
+        "transparent_header_text_color": "#ffffff",
+        "reduce_padding": false,
+        "background_opacity": 0,
+        "background_blur_radius": 0
+      }
+    },
+    "1745940964d36b676f": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header",
+    "1745940964d36b676f"
+  ]
+}
