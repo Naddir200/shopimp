@@ -110,8 +110,8 @@
           "type": "text",
           "settings": {
             "title": "À propos",
-            "content": "<p>Notre mission : sublimer votre intérieur avec des objets durables, esthétiques et simples à utiliser.<br/><br/><br/></p>",
-            "enable_follow_on_shop": true
+            "content": "<p>Un masque au collagène qui allie efficacité, simplicité et plaisir — pour une peau éclatante jour après jour.<br/><br/></p>",
+            "enable_follow_on_shop": false
           }
         }
       },
