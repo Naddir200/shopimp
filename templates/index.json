@@ -441,6 +441,14 @@
             "page": ""
           }
         },
+        "tab_9WnHpK": {
+          "type": "tab",
+          "settings": {
+            "title": "Conseils d'utilisation",
+            "content": "<h5><strong>Conseils d'utilisation pour des résultats optimaux 💗</strong></h5><p>🗓️ <strong>Fréquence d’utilisation</strong><br/>Nous recommandons d’utiliser <strong>1 à 2 masques par semaine</strong>, en fonction des <strong>besoins spécifiques</strong> de votre peau.</p><p>🧼 <strong>Préparation de la peau</strong><br/>Nettoyez votre visage avant d’appliquer le masque. Assurez-vous que la peau soit <strong>propre</strong> et <strong>sèche</strong> pour maximiser l’absorption des actifs.</p><p>📄 <strong>Mise en place du masque</strong></p><ol><li><strong>Retirez le film protecteur</strong> de chaque partie du masque.</li><li>Appliquez délicatement les <strong>deux parties du masque</strong> sur votre visage en veillant à bien couvrir toutes les zones.</li></ol><p>⏳ <strong>Temps de pose</strong></p><ul><li><strong>Pour un soin express</strong> : Laissez agir jusqu’à <strong>4 heures</strong> pour une hydratation et une régénération optimales.</li><li><strong>Pour un soin en profondeur</strong> : Laissez agir <strong>toute la nuit</strong> afin de maximiser les bienfaits des actifs.</li></ul><p>🌟 <strong>Absorption rapide (notamment lors des premières utilisations)<br/></strong><br/>Lors des premières applications, il est possible que votre peau absorbe les actifs du masque <strong>plus rapidement</strong> que prévu, surtout si elle est <strong>très déshydratée</strong>. Si le masque semble sécher plus vite, c’est un signe que votre peau bénéficie pleinement de ses propriétés hydratantes et régénératrices.<br/><br/>⚠️<strong>Test de tolérance cutanée :<br/><br/></strong>Si vous avez une peau sensible ou sujette aux réactions allergiques, appliquez une <strong>petite quantité du masque </strong>sur votre main ou derrière votre oreille avant la première utilisation. Attendez 24 heures pour vérifier l’absence de réaction allergique.</p>",
+            "page": ""
+          }
+        },
         "tab_ChBhNk": {
           "type": "tab",
           "settings": {
@@ -456,22 +464,14 @@
             "content": "<ul><li><strong>30 jours pour changer d’avis</strong> : retour possible sans justification.</li><li><strong>Remplacement gratuit</strong> en cas de défaut de fabrication.</li><li><strong>Assistance dédiée</strong> par mail : <a>contact@myonessa.com</a><br/>Réponse rapide et accompagnement personnalisé.</li></ul>",
             "page": ""
           }
-        },
-        "tab_9WnHpK": {
-          "type": "tab",
-          "settings": {
-            "title": "Paiement sécurisé",
-            "content": "<h4><strong>Moyens de paiement acceptés</strong></h4><ul><li><strong>Cartes bancaires</strong> : Visa, MasterCard, American Express.</li><li><strong>PayPal, Apple Pay & Shop pay</strong> : Pour un paiement rapide et sécurisé.</li></ul><h4><strong>Sécurité et fiabilité</strong></h4><ul><li><strong>Cryptage des données</strong> : Toutes les transactions sont protégées par un cryptage SSL 256 bits pour garantir la sécurité de vos informations.</li><li><strong>Vérification renforcée</strong> : Chaque achat est soumis à des vérifications supplémentaires pour éviter les fraudes.</li></ul><h4><strong>Une question ?</strong></h4><p>Notre service client est disponible 24/7 pour vous répondre.<br/>Contactez-nous à <a><strong>contact@myonessa.com</strong></a></p>",
-            "page": ""
-          }
         }
       },
       "block_order": [
         "tab_dpzDtJ",
         "tab_Ut8BJh",
+        "tab_9WnHpK",
         "tab_ChBhNk",
-        "tab_U8D3Mn",
-        "tab_9WnHpK"
+        "tab_U8D3Mn"
       ],
       "name": "Tabs",
       "settings": {
