@@ -21,7 +21,7 @@
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "",
-            "title": "Enfin des pieds doux sans souffrir ni payer une fortune AAA",
+            "title": "Révélez l’éclat naturel de votre peau",
             "heading_tag": "h3",
             "button_text": "",
             "button_link": "",
@@ -29,7 +29,7 @@
             "button_background": "rgba(0,0,0,0)",
             "button_text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 25,
+            "overlay_opacity": 14,
             "background": "#ffffff",
             "background_gradient": ""
           }
