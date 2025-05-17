@@ -266,6 +266,19 @@
             "link_style": "link"
           }
         },
+        "item_httwzC": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/5.webp",
+            "column_size": "3",
+            "title": "Chloe N. (Shade 1)",
+            "heading_tag": "h4",
+            "content": "<p>‘’This tint is fantastic—it hydrates while providing coverage and doesn’t accentuate wrinkles. It’s become my beauty essential.’’</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_eRjKYB": {
           "type": "item",
           "settings": {
@@ -298,6 +311,7 @@
         "item_tYLz9d",
         "item_EcXQL8",
         "item_nPtdcW",
+        "item_httwzC",
         "item_eRjKYB",
         "item_rixamt"
       ],
