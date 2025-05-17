@@ -17,28 +17,21 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "OFFRE SPÉCIALE PRINTEMPS: JUSQU'À -50%",
+            "text": "SPRING SPECIAL OFFER: UP TO 50% OFF",
             "url": ""
           }
         },
         "message_YnrHdx": {
           "type": "message",
           "settings": {
-            "text": "LIVRAISON GRATUITE À DOMICILE",
+            "text": "FREE SHIPPING",
             "url": ""
           }
         },
         "message_TRqgcY": {
           "type": "message",
           "settings": {
-            "text": "30 JOURS SATISFAIT OU REMBOURSÉ",
-            "url": ""
-          }
-        },
-        "message_gWwALR": {
-          "type": "message",
-          "settings": {
-            "text": "GARANTIE 2 ANS",
+            "text": "30-DAY MONEY-BACK GUARANTEE",
             "url": ""
           }
         }
@@ -46,8 +39,7 @@
       "block_order": [
         "message",
         "message_YnrHdx",
-        "message_TRqgcY",
-        "message_gWwALR"
+        "message_TRqgcY"
       ],
       "settings": {
         "enable_sticky": false,
