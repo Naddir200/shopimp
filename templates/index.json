@@ -271,9 +271,22 @@
           "settings": {
             "image": "shopify://shop_images/6.webp",
             "column_size": "3",
-            "title": "Manon D.",
+            "title": "Carmen D. (Shade 6)",
             "heading_tag": "h4",
             "content": "<p>‘’I was hesitant to try a new skin tint, but I’m glad I did. It covers my sunspots and does not dry out my skin. Plus I’ve gotten so many compliments.’’<br/><br/><br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_rixamt": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/7.webp",
+            "column_size": "3",
+            "title": "Sarah A. (Shade 5)",
+            "heading_tag": "h4",
+            "content": "<p>‘’Always preferred a minimal makeup look and this skin tint is perfect for that. It’s incredibly lightweight but still covers my redness.’’</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -285,7 +298,8 @@
         "item_tYLz9d",
         "item_EcXQL8",
         "item_nPtdcW",
-        "item_eRjKYB"
+        "item_eRjKYB",
+        "item_rixamt"
       ],
       "custom_css": [],
       "name": "Multi-column",
