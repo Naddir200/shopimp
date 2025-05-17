@@ -36,6 +36,7 @@
     "text_font": "poppins_n4",
     "show_page_transition": true,
     "heading_apparition": "none",
+    "color_swatch_config": "Deep:#6b3c2e\n\nMedium Deep:#884b39\n\nMedium:#985638\n\nLight:#e3b79f\n\nFair:#e6b69d\n\nLight Medium:#af7c63",
     "product_color_display": "swatch",
     "product_info_alignment": "start",
     "cart_show_free_shipping_threshold": false,
