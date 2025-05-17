@@ -861,79 +861,36 @@
         "item_zf9x6T": {
           "type": "item",
           "settings": {
-            "title": "À quelle fréquence utiliser la Masque au Bio-Collagène ?",
-            "content": "<p>Nous recommandons une utilisation <strong>2 à 3 fois par semaine</strong> pour des résultats optimaux. À adapter selon les besoins et la sensibilité de votre peau.<br/><br/></p>"
+            "title": "What skin types is this product suitable for?",
+            "content": "<p>The Beauty Balm is designed for all skin types, including sensitive, dry, oily, and combination skin. Its lightweight, non-comedogenic formula works to hydrate and balance your skin without clogging pores.<br/><br/></p>"
           }
         },
         "item_XHbhL6": {
           "type": "item",
           "settings": {
-            "title": "Convient-elle aux peaux sensibles ?",
-            "content": "<p>Oui. La formule est <strong>hypoallergénique</strong>, <strong>non irritante</strong> et idéale même pour les peaux les plus réactives.<br/></p>"
+            "title": "Does this product provide enough coverage for blemishes or redness?",
+            "content": "<p>This product offers sheer-to-light coverage, perfect for evening out skin tone and providing a natural finish. For heavier coverage, you can layer it, but it’s ideal for those looking for a lightweight, natural look.<br/><br/></p>"
           }
         },
         "item_N8zQ9N": {
           "type": "item",
           "settings": {
-            "title": "Puis-je l'utiliser avec d'autres soins ?",
-            "content": "<p>Oui, elle s’intègre facilement dans toute routine beauté. Faites un petit test si vous utilisez un nouveau produit en parallèle.<br/><br/></p>"
+            "title": "Is this product cruelty-free and vegan?",
+            "content": "<p>Yes! The Beauty Balm is 100% cruelty-free and vegan, making it a great choice for ethically conscious beauty lovers.<br/></p>"
           }
         },
         "item_dzwtya": {
           "type": "item",
           "settings": {
-            "title": "Quand verrai-je les premiers résultats ?",
-            "content": "<p>Dès les <strong>premières utilisations</strong>, la peau paraît plus <strong>hydratée, repulpée et lumineuse</strong>. Les effets s’amplifient avec une utilisation régulière.<br/><br/></p>"
+            "title": "Does this product contain fragrance or harsh chemicals?",
+            "content": "<p>No, the Beauty Balm is fragrance-free and free of harsh chemicals like parabens, sulfates, phthalates, mineral oil, and talc. It’s dermatologist-tested and gentle on the skin.</p>"
           }
         },
         "item_ypwEEd": {
           "type": "item",
           "settings": {
-            "title": "Comment l’utiliser ?",
-            "content": "<p><strong>1 – Préparez votre peau</strong><br/>Assurez-vous qu’elle est bien sèche. Choisissez la tête selon vos besoins :<br/>👉 rugueuse pour les zones très abîmées,<br/>👉 douce pour lisser et finaliser.<br/>Branchez, allumez, c’est parti.</p><p><strong>2 – Glissez doucement</strong><br/>Passez l’appareil lentement sur vos pieds, sans forcer. Il s’occupe du reste et élimine les peaux mortes en quelques minutes.</p><p><strong>3 – Admirez le résultat</strong><br/>Essuyez vos pieds, appliquez un peu de crème… et profitez de la sensation de pieds tout doux, comme après un soin pro. </p>"
-          }
-        },
-        "166442457738b23caf-0": {
-          "type": "item",
-          "settings": {
-            "title": "Dans quels pays livrez-vous ?",
-            "content": "<p>Nous livrons en France, Belgique, Suisse et Canada. L'international arrive bientôt !</p>"
-          }
-        },
-        "166442457738b23caf-1": {
-          "type": "item",
-          "settings": {
-            "title": "Quels sont les délais de livraison ?",
-            "content": "<p>La livraison standard prend entre <strong>5 à 7 jours ouvrés</strong>.</p>"
-          }
-        },
-        "166442457738b23caf-2": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "title": "Combien coûte la livraison ?",
-            "content": "<p>La livraison est <strong>100% gratuite</strong> sur toutes les commandes.</p>"
-          }
-        },
-        "item_WMMVhN": {
-          "type": "item",
-          "settings": {
-            "title": "Comment puis-je suivre ma commande ?",
-            "content": "<p>Un numéro de suivi est envoyé dès l’expédition. Si besoin, contacte-nous à <a>contact@myonessa.com</a>.</p>"
-          }
-        },
-        "item_REBDVQ": {
-          "type": "item",
-          "settings": {
-            "title": "Puis-je retourner mon produit ?",
-            "content": "<p>Oui, vous avez <strong>30 jours</strong> pour changer d’avis. Le produit doit être dans son état d’origine.</p>"
-          }
-        },
-        "item_8XzRiW": {
-          "type": "item",
-          "settings": {
-            "title": "Proposez-vous une garantie ?",
-            "content": "<p>Oui, tous nos produits bénéficient d’une <strong>garantie de 2 ans</strong> contre les défauts de fabrication.</p>"
+            "title": "Can I use this product as a base under other makeup?",
+            "content": "<p>Absolutely! The Beauty Balm works beautifully as a lightweight base under other makeup products. Its hydrating formula helps create a smooth canvas for foundation, concealer, or powder, while still allowing your skin to breathe.</p>"
           }
         }
       },
@@ -942,13 +899,7 @@
         "item_XHbhL6",
         "item_N8zQ9N",
         "item_dzwtya",
-        "item_ypwEEd",
-        "166442457738b23caf-0",
-        "166442457738b23caf-1",
-        "166442457738b23caf-2",
-        "item_WMMVhN",
-        "item_REBDVQ",
-        "item_8XzRiW"
+        "item_ypwEEd"
       ],
       "settings": {
         "full_width": false,
@@ -968,7 +919,7 @@
         "heading_gradient": "",
         "button_background": "",
         "button_text_color": "#fec6c5",
-        "accordion_background": "#fec6c5",
+        "accordion_background": "#fbf1e8",
         "accordion_text_color": ""
       }
     }
