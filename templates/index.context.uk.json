@@ -14,7 +14,9 @@
   },
   "sections": {
     "featured-product": {
-      "settings": {},
+      "settings": {
+        "max_image_zoom_level": 3
+      },
       "blocks": {
         "mp_size_chart_mp_inline_button_X9i8G": {
           "type": "shopify://apps/mp-size-chart/blocks/mp-inline-button/305100b1-3599-492a-a54d-54f196ff1f94",
