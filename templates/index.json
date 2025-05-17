@@ -217,24 +217,24 @@
         "item_NNabNT": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/1.png",
+            "image": "shopify://shop_images/1.webp",
             "column_size": "3",
-            "title": "Julie T.",
+            "title": "Lisa M.  (Shade 5)",
             "heading_tag": "h4",
-            "content": "<p>J'étais sceptique au début, surtout avec ma peau sensible qui réagit facilement. Ça change de tous les masques qui me brûlaient la peau auparavant. Je suis conquise !<br/><br/><br/><br/></p>",
+            "content": "<p>‘’I’m truly impressed. The tint blends seamlessly into my skin, providing just the right amount of coverage without feeling heavy.’’do<br/><br/><br/></p>",
             "link_url": "",
             "link_text": "",
-            "link_style": "link"
+            "link_style": "button"
           }
         },
         "item_tYLz9d": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/2.png",
+            "image": "shopify://shop_images/2.webp",
             "column_size": "3",
-            "title": "Camille G.",
+            "title": "Janise O. (Shade 3)",
             "heading_tag": "h4",
-            "content": "<p>Le masque est doux, confortable et hydrate vraiment en profondeur. Le lendemain, ma peau est éclatante. Je recommande les yeux fermés.<br/><br/><br/><br/></p>",
+            "content": "<p>‘’I’ve been on the hunt for a lightweight foundation that doesn’t feel like I’m wearing a mask and this product delivers. ’’<br/><br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
