@@ -375,6 +375,10 @@
             "size_chart_page": ""
           }
         },
+        "mp_size_chart_mp_inline_button_yc6nTJ": {
+          "type": "shopify://apps/mp-size-chart/blocks/mp-inline-button/305100b1-3599-492a-a54d-54f196ff1f94",
+          "settings": {}
+        },
         "kaching_bundles_app_block_3FCmaX": {
           "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
           "settings": {
@@ -412,6 +416,7 @@
         "text_7myLDB",
         "image_FgLHiD",
         "variant_picker_zxmMft",
+        "mp_size_chart_mp_inline_button_yc6nTJ",
         "kaching_bundles_app_block_3FCmaX",
         "liquid_KW46Dc",
         "buy-buttons",
