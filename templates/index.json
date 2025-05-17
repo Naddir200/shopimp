@@ -365,17 +365,6 @@
             "max_width": 500
           }
         },
-        "separator_3Ppj9g": {
-          "type": "separator",
-          "disabled": true,
-          "settings": {}
-        },
-        "description": {
-          "type": "description",
-          "settings": {
-            "collapse_content": false
-          }
-        },
         "kaching_bundles_app_block_3FCmaX": {
           "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
           "settings": {
@@ -418,8 +407,6 @@
         "liquid_BMDM7U",
         "text_7myLDB",
         "image_FgLHiD",
-        "separator_3Ppj9g",
-        "description",
         "kaching_bundles_app_block_3FCmaX",
         "liquid_KW46Dc",
         "buy-buttons",
