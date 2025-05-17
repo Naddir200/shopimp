@@ -351,6 +351,20 @@
             "liquid": "<style>\n  .badge-list {\n    display: flex;\n    gap: 6px;\n    justify-content: space-between;\n    width: 100%;\n  }\n  .badge-list__item {\n    flex: 1;\n    background-color: #F2ECE3;\n    color: #333;\n    font-size: 0.65rem;        /* police encore plus petite */\n    font-weight: 500;\n    padding: 4px 8px;          /* padding réduit */\n    border-radius: 4px;\n    text-align: center;\n    white-space: nowrap;       /* toujours pas de retour à la ligne */\n  }\n</style>\n\n<div class=\"badge-list\">\n  <div class=\"badge-list__item\">HA+ TECHNOLOGY</div>\n  <div class=\"badge-list__item\">FOR ALL SKIN TYPES</div>\n  <div class=\"badge-list__item\">VEGAN</div>\n</div>"
           }
         },
+        "text_7myLDB": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Made to be your beauty shortcut, combining hydration, coverage, and glow in one swipe.</p>"
+          }
+        },
+        "image_FgLHiD": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Votre_texte_de_paragraphe_18.png",
+            "alignment": "start",
+            "max_width": 500
+          }
+        },
         "separator_3Ppj9g": {
           "type": "separator",
           "disabled": true,
@@ -402,6 +416,8 @@
         "liquid_YjEXbE",
         "title",
         "liquid_BMDM7U",
+        "text_7myLDB",
+        "image_FgLHiD",
         "separator_3Ppj9g",
         "description",
         "kaching_bundles_app_block_3FCmaX",
