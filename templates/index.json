@@ -365,6 +365,16 @@
             "max_width": 500
           }
         },
+        "variant_picker_zxmMft": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
         "kaching_bundles_app_block_3FCmaX": {
           "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
           "settings": {
@@ -407,6 +417,7 @@
         "liquid_BMDM7U",
         "text_7myLDB",
         "image_FgLHiD",
+        "variant_picker_zxmMft",
         "kaching_bundles_app_block_3FCmaX",
         "liquid_KW46Dc",
         "buy-buttons",
