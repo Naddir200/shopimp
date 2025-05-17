@@ -345,24 +345,9 @@
             "heading_tag": "h2"
           }
         },
-        "price": {
-          "type": "price",
-          "disabled": true,
-          "settings": {
-            "show_taxes_notice": false
-          }
-        },
         "separator_3Ppj9g": {
           "type": "separator",
           "settings": {}
-        },
-        "image_f9fV6m": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Concue_pour_durer_2.png",
-            "alignment": "start",
-            "max_width": 500
-          }
         },
         "description": {
           "type": "description",
@@ -409,9 +394,7 @@
       "block_order": [
         "liquid_YjEXbE",
         "title",
-        "price",
         "separator_3Ppj9g",
-        "image_f9fV6m",
         "description",
         "kaching_bundles_app_block_3FCmaX",
         "liquid_KW46Dc",
