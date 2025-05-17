@@ -96,7 +96,7 @@
           "settings": {
             "image_width": 150,
             "heading_size": "h3",
-            "title": "Inscrivez-vous pour découvrir nos nouveautés et offres exclusives",
+            "title": "Sign up to discover our new arrivals and exclusive offers",
             "content": ""
           }
         },
@@ -110,8 +110,8 @@
         "text": {
           "type": "text",
           "settings": {
-            "title": "À propos",
-            "content": "<p>Un masque au collagène qui allie efficacité, simplicité et plaisir — pour une peau éclatante jour après jour.<br/><br/></p>",
+            "title": "About",
+            "content": "<p>A skin tint that combines effectiveness, simplicity, and pleasure — for flawless, radiant skin every single day.</p>",
             "enable_follow_on_shop": false
           }
         }
